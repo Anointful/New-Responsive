@@ -1,0 +1,38 @@
+.main-container {
+  flex-direction: column;
+  height: fit-content;
+  padding-bottom: 90px;
+  width: 50%;
+}
+.left-item {
+  top: 25px;
+  width: 30%;
+}
+.learntohe {
+  width: 70%;
+}
+.learntohs {
+  width: 70%;
+}
+.purple-header {
+  width: 100px;
+  height: 30px;
+  margin: 0 auto;
+}
+.right-item {
+  width: 20%;
+  height: 30px;
+  margin: 0 auto;
+}
+.that-form {
+  width: 100px;
+  margin: 0 auto;
+}
+.that-form .input-box input {
+  width: 50px;
+  margin: 0 auto;
+}
+.button {
+  width: 50%;
+  height: 40px;
+}
